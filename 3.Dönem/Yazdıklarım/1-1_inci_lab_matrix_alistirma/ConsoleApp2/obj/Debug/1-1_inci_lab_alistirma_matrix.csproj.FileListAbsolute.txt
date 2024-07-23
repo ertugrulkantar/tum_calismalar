@@ -1,0 +1,6 @@
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\1-1_inci_lab_matrix_alistirma\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\1-1_inci_lab_matrix_alistirma\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\1-1_inci_lab_matrix_alistirma\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\1-1_inci_lab_matrix_alistirma\ConsoleApp2\obj\Debug\1-1_inci_lab_alistirma_matrix.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\1-1_inci_lab_matrix_alistirma\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\1-1_inci_lab_matrix_alistirma\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -1,0 +1,6 @@
+print('bu_program_dolar_tl_cevirimi_yapar')
+eldeki_dolar=int(input('kac_dolarınız_var'))
+dolar_kuru=float(input('guncel_dolar_kuru'))
+tl_karsiligi=float(eldeki_dolar*dolar_kuru)
+print('paranizin_tl_karsiligi',tl_karsiligi,'tl')
+gg=input('end')

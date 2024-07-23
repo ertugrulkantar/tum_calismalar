@@ -1,0 +1,6 @@
+urun_adi=input('urun_adini_giriniz')
+gecen_ayki_fiyat=float(input('gecen_ayki_fiyat'))
+bu_ayki_fiyat=float(input('bu_ayki_fiyat'))
+degisim_mik=float(gecen_ayki_fiyat-bu_ayki_fiyat)
+degisim_yuzdesi=float((degisim_mik*100)/gecen_ayki_fiyat)
+print(urun_adi,'fiyati_gecen_aya_gore::',degisim_mik,'degisti.','degisin_yuzdesi::',degisim_yuzdesi)

@@ -1,0 +1,6 @@
+print('bu_program_tum_gun_gecen_dakikayi_girdiginizde_saati_gosterir')
+girilen_dakika=int(input('dakikayi_giriniz'))
+saat=int(girilen_dakika//60)
+dakika=int(girilen_dakika%60)
+print('saat',saat,':',dakika)
+gg=input('end')

@@ -1,0 +1,7 @@
+ilk_fiyat=int(input('vergi_sorgulaması_için_araba_ham_fiyat_giriniz'))
+otv=float(ilk_fiyat*0.45)
+kdv=float((ilk_fiyat+otv)*0.18)
+toplam_vergi=float(kdv+otv)
+son_fiyat=float(ilk_fiyat+otv+kdv)
+print('OTV',otv,'Kdv',kdv,'Toplam_vergi',toplam_vergi,'Son_fiyat',son_fiyat)
+gg=input('end')

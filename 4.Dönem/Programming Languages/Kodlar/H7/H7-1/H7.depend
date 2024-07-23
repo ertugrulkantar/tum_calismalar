@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620050871 source:c:\users\ertugrul\desktop\h7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620054552 source:c:\users\ertugrul\desktop\h7\h7-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

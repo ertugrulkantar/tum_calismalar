@@ -1,0 +1,7 @@
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\bin\Debug\00Proje-1.exe.config
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\bin\Debug\00Proje-1.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\bin\Debug\00Proje-1.pdb
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\obj\Debug\00Proje-1.csprojAssemblyReference.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\obj\Debug\00Proje-1.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\obj\Debug\00Proje-1.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00Proje-1\00Proje-1\obj\Debug\00Proje-1.pdb

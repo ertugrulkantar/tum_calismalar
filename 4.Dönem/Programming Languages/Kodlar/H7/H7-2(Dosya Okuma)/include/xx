@@ -1,0 +1,16 @@
+#ifndef XX_
+#define XX_
+
+
+class xx
+{
+    public:
+        xx();
+        virtual ~xx();
+
+    protected:
+
+    private:
+};
+
+#endif // XX_

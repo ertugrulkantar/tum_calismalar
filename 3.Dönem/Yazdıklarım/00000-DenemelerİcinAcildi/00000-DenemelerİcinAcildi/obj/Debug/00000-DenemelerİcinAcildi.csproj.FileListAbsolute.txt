@@ -1,0 +1,7 @@
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\bin\Debug\00000-DenemelerİcinAcildi.exe.config
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\bin\Debug\00000-DenemelerİcinAcildi.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\bin\Debug\00000-DenemelerİcinAcildi.pdb
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\obj\Debug\00000-DenemelerİcinAcildi.csprojAssemblyReference.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\obj\Debug\00000-DenemelerİcinAcildi.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\obj\Debug\00000-DenemelerİcinAcildi.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\00000-DenemelerİcinAcildi\00000-DenemelerİcinAcildi\obj\Debug\00000-DenemelerİcinAcildi.pdb

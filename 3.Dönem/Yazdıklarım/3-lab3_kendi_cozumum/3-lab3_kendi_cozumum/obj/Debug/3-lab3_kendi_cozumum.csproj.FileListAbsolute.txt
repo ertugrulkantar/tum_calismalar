@@ -1,0 +1,7 @@
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\obj\Debug\3-lab3_kendi_cozumum.csprojAssemblyReference.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\obj\Debug\3-lab3_kendi_cozumum.csproj.CoreCompileInputs.cache
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\bin\Debug\3-lab3_kendi_cozumum.exe.config
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\bin\Debug\3-lab3_kendi_cozumum.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\bin\Debug\3-lab3_kendi_cozumum.pdb
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\obj\Debug\3-lab3_kendi_cozumum.exe
+C:\Users\ertug\Desktop\Ertuğrul Ders\3.Dönem\Yazdıklarım\3-lab3_kendi_cozumum\3-lab3_kendi_cozumum\obj\Debug\3-lab3_kendi_cozumum.pdb

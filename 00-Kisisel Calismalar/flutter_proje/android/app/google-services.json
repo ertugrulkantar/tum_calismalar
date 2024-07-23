@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "66226392199",
+    "firebase_url": "https://udemyegitim2-ce349-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "udemyegitim2-ce349",
+    "storage_bucket": "udemyegitim2-ce349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66226392199:android:5f54dc6a12955cdba43c22",
+        "android_client_info": {
+          "package_name": "com.example.flutter_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx_rmS3WipTsYZ0UGVKDpa3EK_aAaPdVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

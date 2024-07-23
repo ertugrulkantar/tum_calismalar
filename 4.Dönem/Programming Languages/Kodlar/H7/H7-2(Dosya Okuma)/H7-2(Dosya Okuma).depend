@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1620056605 source:c:\users\ertugrul\desktop\h7-2(dosya okuma)\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1620056504 source:c:\users\ertugrul\desktop\h7-2(dosya okuma)\dosya_okuma.c
+	<stdio.h>
+
